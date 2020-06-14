@@ -80,7 +80,7 @@ $(document).ready(function(){
                         .attr('r', gameBall_radius)
                         .attr('fill', gameBall_color)
     }
-
+ 
     /**
      *  ball controls. user can move the ball with using 'WASD' keys
      */
